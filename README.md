@@ -1,22 +1,17 @@
-## Hi there 👋
+# Config Files Repository for GitHub Profiles
 
-Many people need some quick groovy scripts in their day to day life when they are doing the production support. 
-For example 
-sending an email from Hybris backoffice by extracting data.
-checking rest api using groovy script.
-we can also read a file which is deployed on the server using groovy.
+This repository contains configuration files for enhancing your GitHub profile. It focuses on Groovy scripts and utilities that help with production support and automation tasks.
 
-<!--
-**vinaal/vinaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What You'll Find Here
 
-Here are some ideas to get you started:
+Useful Groovy scripts for common tasks:
+- 📧 Sending emails from Hybris backoffice by extracting data
+- 🔗 Checking REST APIs using Groovy scripts
+- 📁 Reading files deployed on servers using Groovy
+- 🤖 Automating GitHub workflows
+- ⚙️ Custom integrations and utilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Language Composition
+This repository is 100% **Groovy** - all scripts and configurations are written in Groovy for consistency and compatibility.
+
+Feel free to explore the scripts and customize them for your needs!
